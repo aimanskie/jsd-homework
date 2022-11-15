@@ -1,4 +1,5 @@
-Homework: Glossary 
+Homework: Glossary
+------------------
 
 You may preview the web page via url as below:
 
